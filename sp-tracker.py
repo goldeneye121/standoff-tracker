@@ -121,9 +121,9 @@ def banner():
 ██████╔╝██║░░░░░  ░░░██║░░░██║░░██║██║░░██║╚█████╔╝██║░╚██╗███████╗██║░░██║
 ╚═════╝░╚═╝░░░░░  ░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝'''
 	utils.print(f'{G}{art}{W}\n')
-	utils.print(f'{G}[>] {C}Created By       : {W}goldeneye121')
+	utils.print(f'{G}[>] {C}Created By       : {W}goldeneye121(mikael hizkia)')
 	utils.print(f'{G} |---> {C}special thanks: {W}standoff team')
-	utils.print(f'{G} |---> {C}Community     : {W}{comms_url}')
+	utils.print(f'{G} |---> {C}Community     : {W}https://discord.com/invite/HM8sAWCa')
 	utils.print(f'{G}[>] {C}Version          : {W}{VERSION}\n')
 
 
